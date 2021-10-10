@@ -35,13 +35,8 @@
    - 여러 context가 존재할 수 있다. 단, 하나의 context만 존재한다면 성능상 이슈가 있을 수 있다.
 
    - Context 안에는 Provider와 Consumer가 정의되어 있으며 다른 컴포넌트에서는 이것들을 이용해 상태에 접근한다.
-   
-   <img width="780" alt="스크린샷 2021-10-10 오후 11 20 28" src="https://user-images.githubusercontent.com/51510602/136701109-0642a70d-b88b-435d-9221-0cd7e5625598.png">
-   ![good](./img/a.png)
-   
      
-
-  <img src="./img/스크린샷 2021-10-10 오후 7.12.33.png" alt="스크린샷 2021-10-10 오후 7.12.33" style="zoom:50%;" align = "left" />
+<img width="649" alt="스크린샷 2021-10-10 오후 7 12 33" src="https://user-images.githubusercontent.com/51510602/136701234-5dc0479c-108d-43f2-be40-96a6827c810a.png" style="zoom:50%;" align = "left">
 
   
 
