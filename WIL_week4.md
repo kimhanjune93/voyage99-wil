@@ -47,9 +47,7 @@
 
   - 모든 컴포넌트에서 접근해야하는 상태를 제공하기 위해서는 <b>app.js</b> 와 같은 루트컴포넌트에서 Provider를 정의해야한다.
 
-    
-
-  <img src="./img/스크린샷 2021-10-10 오후 7.23.31.png" alt="스크린샷 2021-10-10 오후 7.23.31" style="zoom:50%;" align = "left"/>
+  <img width="680" alt="스크린샷 2021-10-10 오후 7 23 31" src="https://user-images.githubusercontent.com/51510602/136701575-7ca067f9-2aab-4e3c-820b-1bea2ba9ef15.png" style="zoom:50%;" align = "left"/>
 
   
 
