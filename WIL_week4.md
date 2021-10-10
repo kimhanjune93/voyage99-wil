@@ -38,7 +38,7 @@
 
      
 
-  <img src="/Users/kim/Documents/GitHub/voyage99-wil/img/스크린샷 2021-10-10 오후 7.12.33.png" alt="스크린샷 2021-10-10 오후 7.12.33" style="zoom:50%;" align = "left" />
+  <img src="./img/스크린샷 2021-10-10 오후 7.12.33.png" alt="스크린샷 2021-10-10 오후 7.12.33" style="zoom:50%;" align = "left" />
 
   
 
@@ -52,7 +52,7 @@
 
     
 
-  <img src="/Users/kim/Documents/GitHub/voyage99-wil/img/스크린샷 2021-10-10 오후 7.23.31.png" alt="스크린샷 2021-10-10 오후 7.23.31" style="zoom:50%;" align = "left"/>
+  <img src="./img/스크린샷 2021-10-10 오후 7.23.31.png" alt="스크린샷 2021-10-10 오후 7.23.31" style="zoom:50%;" align = "left"/>
 
   
 
@@ -64,7 +64,7 @@
 
   
 
-  <img src="/Users/kim/Documents/GitHub/voyage99-wil/img/스크린샷 2021-10-10 오후 7.32.44.png" alt="스크린샷 2021-10-10 오후 7.32.44" style="zoom:50%;" align = "left"/>
+  <img src="./img/스크린샷 2021-10-10 오후 7.32.44.png" alt="스크린샷 2021-10-10 오후 7.32.44" style="zoom:50%;" align = "left"/>
 
 
 
@@ -96,7 +96,7 @@
 
     
 
-  <img src="/Users/kim/Documents/GitHub/voyage99-wil/img/스크린샷 2021-10-10 오후 10.46.45.png" alt="스크린샷 2021-10-10 오후 10.46.45" style="zoom:50%;" align = "left"/>
+  <img src="./img/스크린샷 2021-10-10 오후 10.46.45.png" alt="스크린샷 2021-10-10 오후 10.46.45" style="zoom:50%;" align = "left"/>
 
   
 
@@ -114,9 +114,9 @@
 
     
 
-    <img src="/Users/kim/Documents/GitHub/voyage99-wil/img/스크린샷 2021-10-10 오후 10.51.52.png" alt="스크린샷 2021-10-10 오후 10.51.52" style="zoom:50%;" align = "left"/>
+    <img src="./img/스크린샷 2021-10-10 오후 10.51.52.png" alt="스크린샷 2021-10-10 오후 10.51.52" style="zoom:50%;" align = "left"/>
 
-  <img src="/Users/kim/Documents/GitHub/voyage99-wil/img/스크린샷 2021-10-10 오후 10.48.50.png" alt="스크린샷 2021-10-10 오후 10.48.50" style="zoom:50%;" align = "left"/>
+  <img src="./img/스크린샷 2021-10-10 오후 10.48.50.png" alt="스크린샷 2021-10-10 오후 10.48.50" style="zoom:50%;" align = "left"/>
 
   
 
@@ -126,7 +126,7 @@
   - 리듀서는 Action에 따라 저장소에 접근하여 정해진 동작을하게된다.
   - 트리거(trigger) 역할이라고 볼 수 있다.
 
-  <img src="/Users/kim/Documents/GitHub/voyage99-wil/img/스크린샷 2021-10-10 오후 10.50.01.png" alt="스크린샷 2021-10-10 오후 10.50.01" style="zoom:50%;" align = "left"/>
+  <img src="./img/스크린샷 2021-10-10 오후 10.50.01.png" alt="스크린샷 2021-10-10 오후 10.50.01" style="zoom:50%;" align = "left"/>
 
   
 
@@ -137,7 +137,7 @@
   - const enhancer = composeEnhancers(applyMiddleware(...middlewares));  : 만든 미들웨어들을 enhancer로 모은다.
   - reducer들과 미들웨어들을 createStore로 store을 구성한다.
 
-  <img src="/Users/kim/Documents/GitHub/voyage99-wil/img/스크린샷 2021-10-10 오후 10.55.31.png" alt="스크린샷 2021-10-10 오후 10.55.31" style="zoom:50%;" align = "left"/>
+  <img src="./img/스크린샷 2021-10-10 오후 10.55.31.png" alt="스크린샷 2021-10-10 오후 10.55.31" style="zoom:50%;" align = "left"/>
 
 ## 2. css라이브러리와 리액트
 
@@ -153,11 +153,11 @@
 
   - 패키지 설치
 
-    <img src="/Users/kim/Documents/GitHub/voyage99-wil/img/스크린샷 2021-10-10 오후 11.16.28.png" alt="스크린샷 2021-10-10 오후 11.16.28" style="zoom:50%;" align = "left"/>
+    <img src="./img/스크린샷 2021-10-10 오후 11.16.28.png" alt="스크린샷 2021-10-10 오후 11.16.28" style="zoom:50%;" align = "left"/>
 
   - Styled-components로 element component구성
 
-    <img src="/Users/kim/Documents/GitHub/voyage99-wil/img/스크린샷 2021-10-10 오후 11.20.28.png" alt="스크린샷 2021-10-10 오후 11.20.28" style="zoom:50%;" align = "left"/>
+    <img src="./img/스크린샷 2021-10-10 오후 11.20.28.png" alt="스크린샷 2021-10-10 오후 11.20.28" style="zoom:50%;" align = "left"/>
 
     - styled를 import
     - 함수 선언 (다른 컴포넌트에서 "<Text/>" 이런식으로 사용할 이름으로 )
